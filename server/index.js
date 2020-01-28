@@ -43,6 +43,6 @@ app.get('/api/randompassowrd', (req, res) => {
   res.send(result);
 });
 
-app.listen(443, () =>
+app.listen(80, () =>
   console.log('Express server is running on https://wirebit.com:443')
 );
