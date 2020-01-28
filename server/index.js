@@ -12,7 +12,7 @@ const IV_LENGTH = 16;
 /* --------- CORS ---------- */
 var cors = require('cors');
 /* --------- EXPRESS ---------- */
-const express = require('express');
+const express = require('express'); 
 /* --------- CHARACTERS ---------- */
 const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%ˆ&*()_+{|:?><';
 
